@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-tailwindcss-emotion",
+  "version": "1.0.0",
+  "description": "React.js with TailwindCSS & Emotion",
+  "main": "template.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angel-codes/cra-template-tailwindcss-emotion.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "tailwindcss",
+    "@emotion",
+    "template"
+  ],
+  "author": "Angel Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angel-codes/cra-template-tailwindcss-emotion/issues"
+  },
+  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-emotion#readme"
+}
