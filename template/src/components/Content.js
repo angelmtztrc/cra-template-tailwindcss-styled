@@ -24,7 +24,7 @@ const Link = tw.a`text-xl text-blue-200 hover:text-blue-300 font-medium mx-4 cur
 const Content = () => {
     return (
         <Fragment>
-            <img src={logo} css={[
+            <img src={logo} alt="React Logo" css={[
                 tw`pointer-events-none`,
                 css`
                     animation: ${animationLogo} infinite 20s linear;
