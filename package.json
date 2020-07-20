@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/angel-codes/cra-template-tailwindcss-emotion/issues"
   },
-  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-emotion#readme"
+  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-emotion#readme",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
