@@ -1,4 +1,4 @@
-import tw from 'twin.macro';
+import tw, { GlobalStyles } from 'twin.macro';
 
 // Components
 import Content from './components/Content';
@@ -8,9 +8,12 @@ const Container = tw.div`min-h-screen flex flex-col items-center justify-center 
 
 function App() {
   return (
-    <Container>
-      <Content />
-    </Container>
+    <>
+      <GlobalStyles />
+      <Container>
+        <Content />
+      </Container>
+    </>
   );
 }
 
