@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angel-codes/cra-template-tailwindcss-emotion.git"
+    "url": "git+https://github.com/angelmtztrc/cra-template-tailwindcss-styled.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Angel Martinez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angel-codes/cra-template-tailwindcss-styled/issues"
+    "url": "https://github.com/angelmtztrc/cra-template-tailwindcss-styled/issues"
   },
-  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-styled#readme",
+  "homepage": "https://github.com/angelmtztrc/cra-template-tailwindcss-styled#readme",
   "engines": {
     "node": ">=10"
   },
