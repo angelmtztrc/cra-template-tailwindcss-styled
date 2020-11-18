@@ -1,7 +1,7 @@
 {
-  "name": "cra-template-tailwindcss-emotion",
-  "version": "1.0.1",
-  "description": "React.js with TailwindCSS & Emotion",
+  "name": "cra-template-tailwindcss-styled",
+  "version": "2.0.0",
+  "description": "ReactJS with TailwindCSS and Styled-Components",
   "main": "template.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,15 +14,15 @@
     "react",
     "create-react-app",
     "tailwindcss",
-    "@emotion",
+    "styled-components",
     "template"
   ],
   "author": "Angel Martinez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angel-codes/cra-template-tailwindcss-emotion/issues"
+    "url": "https://github.com/angel-codes/cra-template-tailwindcss-styled/issues"
   },
-  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-emotion#readme",
+  "homepage": "https://github.com/angel-codes/cra-template-tailwindcss-styled#readme",
   "engines": {
     "node": ">=10"
   },
