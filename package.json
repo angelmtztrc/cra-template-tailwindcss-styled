@@ -1,6 +1,6 @@
 {
   "name": "cra-template-tailwindcss-styled",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "ReactJS with TailwindCSS and Styled-Components",
   "main": "template.json",
   "scripts": {
