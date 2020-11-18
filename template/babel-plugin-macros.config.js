@@ -1,6 +1,11 @@
 // if you need a Theme Provider
 module.exports = {
-    twin: {
-        config: 'src/tailwind.config.js',
-    },
-}
+  twin: {
+    config: 'tailwind.config.js',
+    preset: 'styled-components',
+    autoCssProp: true,
+    debugProp: true,
+    debugPlugins: false,
+    debug: false
+  }
+};
