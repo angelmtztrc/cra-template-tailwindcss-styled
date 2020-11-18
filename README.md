@@ -1,29 +1,30 @@
-# cra-template-tailwindcss-emotion
+# cra-template-tailwindcss-styled
 
-This is the Tailwind CSS & Emotion template for Create React App.
+This is the Tailwind CSS and styled-components template for Create React App.
 
 ## Setting Up
 
-To use this template, add `--template tailwindcss-emotion` when you're creating a new app.
+To use this template, add `--template tailwindcss-styled` when you're creating a new app.
 
 Example:
 
 ```bash
-npx create-react-app my-app --template tailwindcss-emotion
+npx create-react-app my-app --template tailwindcss-styled
 
-# or 
+# or
 
-yarn create react-app my-app --template tailwindcss-emotion
+yarn create react-app my-app --template tailwindcss-styled
 ```
 
 ## More Examples
 
-If you need more examples for use TailwindCSS with Emotion, you can see this two pages:
+If you need more examples for use Tailwind CSS with styled-components, you can see this two pages:
 
-- [Twin Macro](https://www.npmjs.com/package/twin.macro)
-- [Setting Up React.js with TailwindCSS and Emotion](https://dev.to/angelcodes/react-app-with-tailwind-css-emotion-twin-macro-3dpe)
+- [twin.macro](https://www.npmjs.com/package/twin.macro)
+- [ReactJS - Tailwind CSS with CSS-IN-JS](https://angelcodes.hashnode.dev/reactjs-tailwind-css-with-css-in-js)
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
