@@ -1,5 +1,7 @@
 # cra-template-tailwindcss-styled
 
+[![npm version](https://badge.fury.io/js/cra-template-tailwindcss-styled.svg)](https://badge.fury.io/js/cra-template-tailwindcss-styled)
+
 This is the Tailwind CSS and styled-components template for Create React App.
 
 ## Setting Up
