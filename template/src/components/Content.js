@@ -24,7 +24,7 @@ const Content = () => {
       <Paragraph>ReactJS with Tailwind CSS and Styled Components</Paragraph>
       <div tw="flex mt-5">
         <Link
-          href="https://github.com/angel-codes/cra-template-tailwindcss-emotion"
+          href="https://github.com/angelmtztrc/cra-template-tailwindcss-styled"
           target="_blank"
           rel="noopener noreferrer"
         >
