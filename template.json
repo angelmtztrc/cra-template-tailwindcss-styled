@@ -1,14 +1,14 @@
 {
   "package": {
     "dependencies": {
-      "@testing-library/jest-dom": "^5.11.4",
-      "@testing-library/react": "^11.1.1",
-      "@testing-library/user-event": "^12.1.10",
+      "@testing-library/jest-dom": "latest",
+      "@testing-library/react": "latest",
+      "@testing-library/user-event": "latest",
       "web-vitals": "^0.2.4",
-      "twin.macro": "^1.12.1",
-      "styled-components": "^5.2.1",
-      "prettier": "^2.1.2",
-      "prettier-plugin-tailwind": "^2.2.0"
+      "twin.macro": "2.x",
+      "styled-components": "5.x",
+      "prettier": "2.x",
+      "prettier-plugin-tailwind": "2.x"
     },
     "eslintConfig": {
       "extends": ["react-app"]
